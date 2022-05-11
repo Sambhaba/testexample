@@ -1,0 +1,16 @@
+C:\Users\Sambhaba_Pani\codechef\testexample\bin\Debug\net5.0\testexample.exe
+C:\Users\Sambhaba_Pani\codechef\testexample\bin\Debug\net5.0\testexample.deps.json
+C:\Users\Sambhaba_Pani\codechef\testexample\bin\Debug\net5.0\testexample.runtimeconfig.json
+C:\Users\Sambhaba_Pani\codechef\testexample\bin\Debug\net5.0\testexample.runtimeconfig.dev.json
+C:\Users\Sambhaba_Pani\codechef\testexample\bin\Debug\net5.0\testexample.dll
+C:\Users\Sambhaba_Pani\codechef\testexample\bin\Debug\net5.0\ref\testexample.dll
+C:\Users\Sambhaba_Pani\codechef\testexample\bin\Debug\net5.0\testexample.pdb
+C:\Users\Sambhaba_Pani\codechef\testexample\obj\Debug\net5.0\testexample.csproj.AssemblyReference.cache
+C:\Users\Sambhaba_Pani\codechef\testexample\obj\Debug\net5.0\testexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sambhaba_Pani\codechef\testexample\obj\Debug\net5.0\testexample.AssemblyInfoInputs.cache
+C:\Users\Sambhaba_Pani\codechef\testexample\obj\Debug\net5.0\testexample.AssemblyInfo.cs
+C:\Users\Sambhaba_Pani\codechef\testexample\obj\Debug\net5.0\testexample.csproj.CoreCompileInputs.cache
+C:\Users\Sambhaba_Pani\codechef\testexample\obj\Debug\net5.0\testexample.dll
+C:\Users\Sambhaba_Pani\codechef\testexample\obj\Debug\net5.0\ref\testexample.dll
+C:\Users\Sambhaba_Pani\codechef\testexample\obj\Debug\net5.0\testexample.pdb
+C:\Users\Sambhaba_Pani\codechef\testexample\obj\Debug\net5.0\testexample.genruntimeconfig.cache
